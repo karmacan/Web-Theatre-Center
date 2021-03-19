@@ -1,0 +1,40 @@
+$img: '/public/img'; // img folder path
+
+$i-bg-scene: $img + '/bg-scene.jpg';
+$i-bg-scene-1: $img + '/bg-scene-1.jpg';
+
+$i-play-piter-moscow: $img + '/play-piter-moscow.jpg';
+
+$i-logo: $img + '/logo.png';
+$i-logo-accento: $img + '/logo-accento.png';
+$i-logo-chance: $img + '/logo-chance.png';
+$i-logo-kalyda: $img + '/logo-kalyda.png';
+$i-logo-lab: $img + '/logo-lab.png';
+$i-logo-ptu: $img + '/logo-ptu.jpg';
+$i-logo-solo: $img + '/logo-solo.png';
+
+$i-logo-kassir: $img + '/logo-kassir.jpg';
+$i-logo-ponominalu: $img + '/logo-ponominalu.jpg';
+$i-logo-ticketland: $img + '/logo-ticketland.png';
+$i-logo-bigbilet: $img + '/logo-bigbilet.png';
+$i-logo-parter: $img + '/logo-parter.png';
+$i-logo-listim: $img + '/logo-listim.png';
+
+$i-port-actor: $img + '/port-actor.jpg';
+$i-port-director: $img + '/port-director.jpg';
+$i-port-kalyagin: $img + '/port-kalyagin.jpg';
+$i-port-kalyagin-1: $img + '/port-kalyagin-1.jpg';
+$i-scheme-hall: $img + '/scheme-hall.png';
+$i-scheme-map: $img + '/scheme-map.png';
+
+$i-theatre-hall: $img + '/theatre-hall.jpg';
+$i-theatre-scene: $img + '/theatre-scene.jpg';
+$i-theatre-scene-front: $img + '/theatre-scene-front.jpg';
+
+$i-feed-dead: $img + '/feed-dead.jpg';
+$i-feed-grishcovec: $img + '/feed-grishcovec.jpg';
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('/public/font/Roboto/Roboto-Regular.ttf');
+}

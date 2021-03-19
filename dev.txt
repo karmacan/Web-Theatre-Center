@@ -1,0 +1,13 @@
+GIT:
+git init
+git add .
+git commit -m "deploy commit"
+
+HEROKU:
+heroku login
+// heroku login --interactive
+heroku create APP-NAME
+git push heroku master
+
+// Reanem heroku app
+// heroku apps:rename heroku-NEW-APP-NAME
